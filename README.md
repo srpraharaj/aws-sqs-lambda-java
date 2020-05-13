@@ -1,2 +1,2 @@
 # aws-sqs-lambda-java
-Demo project for AWS Lambda reading SQS trigger in Java
+AWS Lambda triggered by SQS Message in Java
